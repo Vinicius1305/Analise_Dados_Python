@@ -1,0 +1,12 @@
+ CONCLUSÕES FINAIS:
+
+ Eu visualizei 1965 clientes e a média da notas é de 52%.
+ Com a média de idade de 48 anos e a média Salarial de R$110.616,00.
+
+ Perfil ideal de clientes é:
+
+ Os Profissionais que mais compram são: Entreterimento e Artista.
+ - A faixa Salarial não faz muito diferença.
+ - A média da Idade: é acima de 15 anos e com poucas diferenças depois disso.
+ - O melhor faixa experiencia é de 10 - 15 anos.
+ - A média de membros da familia é abaixo de 7. 
