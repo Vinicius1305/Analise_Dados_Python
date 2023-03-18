@@ -1,6 +1,7 @@
 # Analise_Dados_Python
-- Desafio:
-Aqui eu trablho em uma empresa do varejo e tenho milhares de clientes diferentes.
+
+
+Eu trabalho em uma empresa de varejo e tenho milhares de clientes diferentes.
 
 Tenho o objetivo de aumentar o faturamento e o lucro da sua empresa, a diretoria quer conseguir identificar quem é o cliente ideal para seus produtos, baseado no histórico de compras dos clientes.
 
